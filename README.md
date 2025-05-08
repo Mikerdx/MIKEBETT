@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Mike</h1>
 <p align="center">
-  <em>Full Stack Developer | JavaScript • React • Python Enthusiast</em>  
+<em>Full Stack Developer | JavaScript • React • Python Enthusiast</em>  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;React%20%7C%20Python%20Lover;Open-Source%20Contributor;Always%20Learning%20New%20Things&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=20">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;React%20%7C%20Python%20Lover;Open-Source%20Contributor;Always%20Learning%20New%20Things&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikerdx&label=Profile%20Views&color=blueviolet&style=flat" alt="mikerdx" />
+<img src="https://komarev.com/ghpvc/?username=mikerdx&label=Profile%20Views&color=blueviolet&style=flat" alt="mikerdx" />
 </p>
 
 ---
@@ -50,38 +50,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikerdx&show_icons=true&theme=react&border_radius=10&hide_title=false">
+<img src="https://github-readme-stats.vercel.app/api?username=mikerdx&show_icons=true&theme=react&border_radius=10&hide_title=false">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikerdx&theme=react&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikerdx&theme=react&hide_border=false">
 </p>
-
----
-
-## 📌 Featured Projects
-
-- [📚 **Book Store App**](https://github.com/mikerdx/book-store) — React app to browse, search, and manage books  
-- [🌦️ **Weather Dashboard**](https://github.com/mikerdx/weather-app) — Real-time weather app using Fetch API  
-- [🤖 **Bot Battlr**](https://github.com/mikerdx/bot-battlr) — React game app for collecting and battling bots  
-
----
-
-## 🌐 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://mikeportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikerdx)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mike.bett@student.moringa.school.com)
-
----
-
-## 🐍 My Contributions Snake
-
-<p align="center">
-   <img src="https://github.com/mikerdx/mikerdx/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-
----
-
-> **"Simplicity is the soul of efficiency."** — *Austin Freeman*
