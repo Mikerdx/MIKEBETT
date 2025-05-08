@@ -78,8 +78,9 @@
 ## 🐍 My Contributions Snake
 
 <p align="center">
-  <img src="https://github.com/mikerdx/mikerdx/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+   <img src="https://github.com/mikerdx/mikerdx/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 ---
 
